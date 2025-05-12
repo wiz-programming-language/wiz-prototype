@@ -1,0 +1,20 @@
+@ English
+
+# Branching
+
+variable condition = true
+
+if not condition begin
+    write("Condition is false")
+end else begin
+    write("Condition is true")
+end
+
+# Loops
+
+variable number = 0
+
+while number less than 10 begin
+    write(number)
+    number = number + 1
+end

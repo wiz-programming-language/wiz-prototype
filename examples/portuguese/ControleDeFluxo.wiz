@@ -1,0 +1,20 @@
+@ Português
+
+# Estruturas de seleção
+
+variavel condicao = verdadeiro
+
+se nao condicao inicio
+    escreva("Condição é falso")
+fim senao inicio
+    escreva("Condição é verdadeiro")
+fim
+
+# Laços de repetição
+
+variavel numero = 0
+
+enquanto numero menor que 10 inicio
+    escreva(numero)
+    numero = numero + 1
+fim

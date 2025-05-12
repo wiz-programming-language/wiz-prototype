@@ -1,0 +1,23 @@
+@ English
+
+# Math
+
+write(10 plus 10 + 10) # Addition
+write(10 minus 10 - 10) # Subtraction
+write(10 times 10 * 10) # Multiplication
+write(10 divided by 10 / 10) # Division
+
+# Comparison
+
+write(10 equals 10 == 10)
+write(10 not equals 10 != 10)
+write(10 greater than 10 or 10 > 10)
+write(10 greater or equals 10 or 10 >= 10)
+write(10 less than 10 or 10 < 10)
+write(10 less or equals 10 or 10 <= 10)
+
+# Logical
+
+write(not false)
+write(false or true)
+write(true and true)

@@ -1,0 +1,23 @@
+@ Português
+
+# Matemática
+
+escreva(10 mais 10 + 10) # Addition
+escreva(10 menos 10 - 10) # Subtraction
+escreva(10 vezes 10 * 10) # Multiplication
+escreva(10 dividido por 10 / 10) # Division
+
+# Comparação
+
+escreva(10 igual a 10 == 10)
+escreva(10 nao igual a 10 != 10)
+escreva(10 maior que 10 ou 10 > 10)
+escreva(10 maior ou igual a 10 ou 10 >= 10)
+escreva(10 menor que 10 ou 10 < 10)
+escreva(10 menor ou igual a 10 ou 10 <= 10)
+
+# Lógica
+
+escreva(nao falso)
+escreva(falso ou verdadeiro)
+escreva(verdadeiro e verdadeiro)

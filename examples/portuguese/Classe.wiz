@@ -1,0 +1,17 @@
+@ Português
+
+classe Carro inicio
+    init(cor, ano) inicio
+        esse.cor = cor
+        esse.ano = ano
+        esse.km = 0
+    fim
+
+    dirigir(distancia) inicio
+        retorne esse.km = esse.km + distancia
+    fim
+fim
+
+variavel carro = Carro('preto', 2007)
+escreva(carro.dirigir(10))
+escreva(carro.dirigir(25))

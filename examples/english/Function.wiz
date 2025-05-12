@@ -1,0 +1,7 @@
+@ English
+
+function sum(a, b) begin
+    return a + b
+end
+
+write(sum(10, 30))

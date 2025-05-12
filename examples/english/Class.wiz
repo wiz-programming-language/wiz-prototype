@@ -1,0 +1,17 @@
+@ English
+
+class Car begin
+    init(color, year) begin
+        this.color = color
+        this.year = year
+        this.km = 0
+    end
+
+    drive(distance) begin
+        return this.km = this.km + distance
+    end
+end
+
+variable car = Car('black', 2007)
+write(car.drive(10))
+write(car.drive(25))

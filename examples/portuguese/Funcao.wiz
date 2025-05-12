@@ -1,0 +1,7 @@
+@ Português
+
+funcao soma(a, b) inicio
+    retorne a + b
+fim
+
+escreva(soma(10, 30))
